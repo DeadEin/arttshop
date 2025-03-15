@@ -1,0 +1,14 @@
+.f{
+    display: inline-block;
+}
+.blockquotemb-0{
+    text-align: center;
+}
+.blockquote-footer{
+    text-align: center;
+}
+.kot{
+    opacity: 0;
+    z-index: 10;
+    position: absolute;
+}
